@@ -1,2 +1,2 @@
-# httpd-da
-Library Digital Assets httpd configuration
+# httpd-litfiles
+Library litfiles httpd configuration
