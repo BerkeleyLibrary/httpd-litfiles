@@ -11,5 +11,4 @@ services:
     ports:
       - 80:80
     volumes:
-      - ./data:/usr/local/apache2/htdocs:ro
-      - /srv/da_symlinks:/srv/da_symlinks:ro
+      - ./data/da:/srv/litfiles:ro
